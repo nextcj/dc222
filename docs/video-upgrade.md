@@ -11,15 +11,12 @@
 ```
 
 参考以下视频
-<div align="center">
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112727540436988&bvid=BV1tJhpe7EvL&cid=500001604721643&p=1" 
-    width="300"
-    height="360"
-    autoplay=0
-    scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-</div>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112727540436988&bvid=BV1tJhpe7EvL&cid=500001604721643&p=1"
+width="300"
+height="360"
+autoplay=0
+scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ### 二. 升级屏幕安卓系统
 
