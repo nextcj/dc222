@@ -1,0 +1,6 @@
+.sidebar-toggle {
+  position: fixed;
+  top: 10px; /* 根据需要调整 */
+  left: 10px; /* 根据需要调整 */
+  z-index: 10; /* 确保按钮在页面内容之上 */
+}
