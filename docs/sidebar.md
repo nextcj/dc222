@@ -1,5 +1,5 @@
 
-- [222屏幕接线图教程](screen-circuit)
+- [图文教程：屏幕接线](screen-circuit)
 - [Markdown教程](markdown)
 - 
 - **链接**
