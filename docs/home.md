@@ -10,12 +10,3 @@
 - [视频指导：升级](video-upgrade)
 
 - [视频指导：无法弹出键盘输入](video-input)
-
-
----
-
-<div align="center">
-
-```Hu```
-
-</div>
