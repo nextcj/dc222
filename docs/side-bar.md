@@ -5,5 +5,5 @@
 - [视频指导：安装空调线束](video-aircondition)
 - [视频指导：安装车门](video-door)
 - 
-- **链接**
-- [![223](assets/img/code.svg)大川223售后文档](https://nextcj.github.io/)
+- **其他文档**
+- [![223](assets/img/code.svg)大川223售后文档](https://nextcj.github.io/dc223)
