@@ -1,4 +1,4 @@
-# 视频指导
+<p style="font-size:30px;">视频指导</p>
 
 **<font color="#dc2222"> 解决：连接 WIFI 时无法弹出键盘输入 </font>**
 

@@ -1,11 +1,10 @@
+<p style="font-size:30px;">大川222售后文档</p>
 
-# 大川222售后文档
-
-## 图文指导
+<p style="font-size:25px;">图文指导</p>
 
 - [图文教程：屏幕接线](screen-circuit)
 
-## 视频指导
+<p style="font-size:25px;">视频指导</p>
 
 - [视频指导：升级](video-upgrade)
 
