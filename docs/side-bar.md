@@ -1,4 +1,5 @@
 
+- [首页目录]()
 - [图文教程：屏幕接线](screen-circuit)
 - [视频指导：升级](video-upgrade)
 - [视频指导：无法弹出键盘输入](video-input)
